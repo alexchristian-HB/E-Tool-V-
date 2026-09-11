@@ -1,5 +1,5 @@
-import { Workspace } from "@/components/estimator/workspace"
+import { RoleWorkspace } from "@/components/estimator/role-workspace"
 
 export default function Page() {
-  return <Workspace />
+  return <RoleWorkspace />
 }
